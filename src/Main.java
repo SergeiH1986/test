@@ -8,7 +8,7 @@ public class Main {
         int i = Integer.parseInt(reader.readLine());
         int j = Integer.parseInt(reader.readLine());
 
-        System.out.println(i-j);
+        System.out.println(i+j);
 
         }
 
